@@ -1,0 +1,8 @@
+yfinance
+pandas
+scikit-learn
+factor_analyzer
+numpy
+statsmodels
+joblib
+tensorflow
